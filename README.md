@@ -4,7 +4,7 @@ A simple program designed to keep track of different budgets. It can create diff
 
 The user can deposit funds into a category, as well as withdraw funds from it and transfer funds between categories. They also have the option to display the percentage withdrawals from each of their budget categories.
 
-[View code on Replit.](https://replit.com/@SA907/FCC-Budget-App#budget.py)
+[View code on Replit.](https://replit.com/@SA907/FCC-Budget-App?v=1)
 
 This code was created for [freeCodeCamp](https://www.freecodecamp.org/), as part of the Scientific Computing with Python course.
 
