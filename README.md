@@ -8,4 +8,6 @@ The user can deposit funds into a category, as well as withdraw funds from it an
 
 This code was created for [freeCodeCamp](https://www.freecodecamp.org/), as part of the Scientific Computing with Python course.
 
+Date of completion: 8th August 2022
+
 [View course certification and solutions to the challenges.](https://www.freecodecamp.org/certification/SA9102/scientific-computing-with-python-v7)
