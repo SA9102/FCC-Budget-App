@@ -1,4 +1,4 @@
-# Budget App
+# FCC Budget App
 
 A simple program designed to keep track of different budgets. It can create different budget categories, each with its own name, total funds, and ledger.
 
